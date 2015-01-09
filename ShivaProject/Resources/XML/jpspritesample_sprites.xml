@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:974536ba9f19bad34620121815a3f05d:655979e0270b14b11fd482dbfc83a58c:e719beb8e3cbd7a258c3f333088799d3$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="jpspritesample_sprites.png" width="512" height="512">
+    <sprite n="less" x="2" y="354" w="66" h="66" pX="0.5" pY="0.5" oX="2" oY="2" oW="70" oH="70"/>
+    <sprite n="more" x="2" y="422" w="66" h="66" pX="0.5" pY="0.5" oX="2" oY="2" oW="70" oH="70"/>
+    <sprite n="turn0" x="410" y="2" w="92" h="166" pX="0.5" pY="0.5" oX="11" oY="6" oW="114" oH="181"/>
+    <sprite n="turn1" x="316" y="171" w="78" h="168" pX="0.5" pY="0.5" oX="21" oY="3" oW="114" oH="181"/>
+    <sprite n="turn2" x="166" y="2" w="69" h="172" pX="0.5" pY="0.5" oX="17" oY="0" oW="114" oH="181"/>
+    <sprite n="turn3" x="93" y="2" w="71" h="173" pX="0.5" pY="0.5" oX="3" oY="0" oW="114" oH="181"/>
+    <sprite n="turn4" x="414" y="341" w="71" h="165" pX="0.5" pY="0.5" oX="6" oY="7" oW="114" oH="181"/>
+    <sprite n="turn5" x="249" y="341" w="83" h="169" pX="0.5" pY="0.5" oX="0" oY="3" oW="114" oH="181"/>
+    <sprite n="walk0" x="2" y="179" w="87" h="173" pX="0.5" pY="0.5" oX="8" oY="2" oW="103" oH="178"/>
+    <sprite n="walk1" x="316" y="2" w="92" h="167" pX="0.5" pY="0.5" oX="0" oY="4" oW="103" oH="178"/>
+    <sprite n="walk2" x="410" y="170" w="84" h="169" pX="0.5" pY="0.5" oX="14" oY="1" oW="103" oH="178"/>
+    <sprite n="walk3" x="334" y="341" w="78" h="168" pX="0.5" pY="0.5" oX="23" oY="1" oW="103" oH="178"/>
+    <sprite n="walk4" x="237" y="2" w="77" h="170" pX="0.5" pY="0.5" oX="18" oY="2" oW="103" oH="178"/>
+    <sprite n="walk5" x="173" y="176" w="74" h="171" pX="0.5" pY="0.5" oX="16" oY="4" oW="103" oH="178"/>
+    <sprite n="walk6" x="91" y="179" w="80" h="173" pX="0.5" pY="0.5" oX="18" oY="1" oW="103" oH="178"/>
+    <sprite n="walk7" x="2" y="2" w="89" h="175" pX="0.5" pY="0.5" oX="12" oY="1" oW="103" oH="178"/>
+</TextureAtlas>
